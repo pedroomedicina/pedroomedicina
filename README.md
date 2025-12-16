@@ -53,11 +53,3 @@ Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwi
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroomedicina&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomedicina&layout=compact)
-
-> Tip: if the cards don’t render, the Vercel service may be rate-limited; they usually come back on their own.
-
----
-
-## 🤝 Let’s connect / collaborate
-
-If you’re building with Rails/Hotwire or Go (CLIs/APIs) and want help with DX, background jobs, or integrations, I’m happy to pair or review.
