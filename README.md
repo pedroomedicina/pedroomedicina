@@ -10,6 +10,11 @@ Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwi
 
 ## ✨ Highlights
 
+- **RAG Revalida Odontología** — Grounded Q&A over Spanish endodontics study material, built for dental Revalida exam prep  
+  Hybrid retrieval in Postgres: pgvector embeddings plus accent-insensitive full-text search, combined with reciprocal rank fusion. Ingestion detects PDFs with no usable text and sends them through OCR.  
+  `Python • RAG • pgvector • Postgres FTS • OCR • pytest + CI`  
+  https://github.com/pedroomedicina/rag-revalida-odontologia
+
 - **Golang Blog Aggregator (Gator)** — RSS feed aggregator CLI with PostgreSQL  
   `Go • CLI • SQLC • Migrations`  
   https://github.com/pedroomedicina/golang-blog-aggregator
