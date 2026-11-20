@@ -1,8 +1,8 @@
 # Hey, I'm Pedro 👋
 
-Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwire** and **Go**. I like building lean backends, CLIs, and integrations that ship fast and stay maintainable.
+Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwire** and **Go**, and lately **Python** for RAG and search. I like building lean backends, CLIs, and integrations that ship fast and stay maintainable.
 
-- 🔭 Current focus: Rails 8 + Hotwire, Go CLIs, solid testing & DX
+- 🔭 Current focus: Rails 8 + Hotwire, Go CLIs, RAG pipelines (pgvector + Postgres full-text search), solid testing & DX
 - 🧰 Daily drivers: Ruby, Go, PostgreSQL, Redis, Sidekiq, Turbo/Stimulus, JS/TS, Docker
 - 💬 Ask me about: API integrations, background jobs, SQL, CLI tooling
 
@@ -40,13 +40,13 @@ Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwi
 ## 🧱 Tech stack
 
 **Languages & Runtime**  
-`Ruby` · `Go` · `JavaScript/TypeScript` · `SQL`
+`Ruby` · `Go` · `Python` · `JavaScript/TypeScript` · `SQL`
 
 **Frameworks & Libraries**  
 `Rails 8` · `Hotwire (Turbo, Stimulus)` · `RSpec` · `SQLC` · `HTMX/Fetch` (as needed)
 
 **Data & Infra**  
-`PostgreSQL` · `Redis` · `Sidekiq` · `Docker`
+`PostgreSQL` · `pgvector` · `Redis` · `Sidekiq` · `Docker`
 
 **Tooling**  
 `GitHub Actions` · `Make` · `asdf/Volta` · `RubyMine` · `Neovim`
