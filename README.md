@@ -5,7 +5,6 @@ Full-stack developer based in Chile, working mostly with **Ruby on Rails + Hotwi
 - 🔭 Current focus: Rails 8 + Hotwire, Go CLIs, solid testing & DX
 - 🧰 Daily drivers: Ruby, Go, PostgreSQL, Redis, Sidekiq, Turbo/Stimulus, JS/TS, Docker
 - 💬 Ask me about: API integrations, background jobs, SQL, CLI tooling
-- ⚽️ Outside code: running and football
 
 ---
 
